@@ -13,7 +13,7 @@ the cost of a stay and record payments made by guests.
 | 1 | *(fill in)* | Person, Guest, Employee classes |
 | 2 | *(fill in)* | Room class, Payment class |
 | 3 | *(fill in)* | Reservation class + HotelSystem business logic |
-| 4 | *(your name)* | Integration, main.py demo, README, testing edge cases |
+| 4 | *Sama Osama* | Integration, main.py demo, README, testing edge cases |
 
 ## Classes
 | Class | File | Description |
