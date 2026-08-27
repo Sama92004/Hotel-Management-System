@@ -73,5 +73,6 @@ class HotelSystem:
         if not self.reservations:
             print("No reservations in the system.")
         for res in self.reservations:
-            print(res)
+           res.display_info()
+           print("-"*40)
 
